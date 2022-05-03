@@ -1,3 +1,8 @@
-Dentro de la carpeta del proyecto usa: npm install para instalar dependencias
+Dentro de la carpeta del proyecto usa: 
+> npm install 
 
-Luego usar npm start
+para instalar dependencias
+
+Luego usa:
+
+> npm start
